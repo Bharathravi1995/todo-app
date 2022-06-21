@@ -44,7 +44,7 @@ const TodoApp = () => {
       )}
       <footer className="footer-msg">
         <small>
-          Made with <span>❤</span> by
+          Made with <span>❤</span> by{" "}
           <a href="https://csb-em0wuy.netlify.app/" target="_blank">
             Bharathwaj Ravi
           </a>

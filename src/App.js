@@ -42,7 +42,7 @@ const TodoApp = () => {
           <span>No Todo available</span>
         </div>
       )}
-      <footer class="footer-msg">
+      <footer className="footer-msg">
         <small>
           Made with <span>❤</span> by
           <a href="https://csb-em0wuy.netlify.app/" target="_blank">

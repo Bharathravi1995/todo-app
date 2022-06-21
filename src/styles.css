@@ -125,3 +125,12 @@ input[type="checkbox"] {
   align-items: center;
   justify-content: center;
 }
+
+.footer-msg {
+  position: fixed;
+  bottom: 0;
+  padding: 1rem;
+  margin: auto;
+  left: 50%;
+  transform: translateX(-50%);
+}
